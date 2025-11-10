@@ -31,6 +31,8 @@ def answer_question(query, context_docs, model_config):
         context = "\n".join(context_docs)
     else:
         context = str(context_docs)
+
+        
     
     # Create prompt that emphasizes using only the context
     prompt = f"""Context:
