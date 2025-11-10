@@ -1,0 +1,28 @@
+[
+  {
+    "query": "What is diabetes?",
+    "context": "Diabetes is a disease characterized by high blood sugar levels. It occurs when the body cannot produce or effectively use insulin. There are two main types: Type 1, where the body doesn't produce insulin, and Type 2, where the body doesn't use insulin properly.",
+    "answer": "A condition where blood sugar is high."
+  },
+  {
+    "query": "What is hypertension?",
+    "context": "Hypertension is a condition where blood pressure is chronically elevated. It is often called the 'silent killer' because it may have no symptoms. Normal blood pressure is below 120/80 mmHg, while hypertension is diagnosed at 130/80 mmHg or higher.",
+    "answer": "High blood pressure."
+  },
+  {
+    "query": "What causes heart disease?",
+    "context": "Heart disease can be caused by various factors including high cholesterol, high blood pressure, smoking, lack of exercise, obesity, and poor diet. Family history and age also play important roles in heart disease risk.",
+    "answer": "Multiple factors like cholesterol and blood pressure."
+  },
+  {
+    "query": "What is the function of insulin?",
+    "context": "Insulin is a hormone produced by the pancreas that regulates blood sugar levels. It allows cells to absorb glucose from the bloodstream to use for energy or storage. Without insulin, glucose accumulates in the blood leading to high blood sugar.",
+    "answer": "It regulates blood sugar by helping cells absorb glucose."
+  },
+  {
+    "query": "What are the symptoms of diabetes?",
+    "context": "Common symptoms of diabetes include increased thirst, frequent urination, extreme hunger, unexplained weight loss, fatigue, blurred vision, slow-healing sores, and frequent infections. Some people with Type 2 diabetes may have no symptoms at first.",
+    "answer": "Increased thirst, frequent urination, and fatigue."
+  }
+]
+
